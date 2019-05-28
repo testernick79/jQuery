@@ -1,0 +1,20 @@
+.titleBgColor {
+    background-color: orange;
+    float: center;
+}
+
+h3 {
+    text-align: center;
+  }
+
+  .text {
+    
+    
+    padding: 5px;
+    
+    text-align: center;
+  }
+
+  .input{
+    color: red;
+}
